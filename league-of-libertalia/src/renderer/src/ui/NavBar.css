@@ -1,0 +1,14 @@
+/* src/ui/NavBar.css */
+
+.navbar {
+    font-family: 'Exo 2', sans-serif;
+}
+
+.navbar-brand {
+    font-style: italic;
+}
+
+.navbar-nav {
+    font-weight: bold; 
+    font-size: 1.1rem;
+}
